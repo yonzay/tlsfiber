@@ -78,6 +78,8 @@
 
 ## âš¡ï¸? Quickstart
 
+ <img src="https://cdn.discordapp.com/attachments/899414782149525524/1012199083013836830/12121.PNG" width="49%">
+
 ```go
 package main
 
