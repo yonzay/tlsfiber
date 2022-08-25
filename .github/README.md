@@ -77,7 +77,7 @@
 </p>
 
 ## âš¡ï¸? Quickstart
-TLS Fingerprints can only be properly gathered when you host using https otherwise they may not be unique enough to be useful
+TLS fingerprints can only be properly gathered when you host using https otherwise they may not be unique enough to be useful
 
  <img src="https://cdn.discordapp.com/attachments/899414782149525524/1012199083013836830/12121.PNG" width="49%">
 
